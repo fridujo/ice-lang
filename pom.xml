@@ -20,7 +20,7 @@
         <spring.version>5.3.7</spring.version>
         <minimal-json.version>0.9.5</minimal-json.version>
         <slf4j.version>1.7.30</slf4j.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.4</logback.version>
 
         <junit.version>5.7.1</junit.version>
         <junit-platform.version>1.7.1</junit-platform.version>
